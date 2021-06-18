@@ -1,2 +1,2 @@
-git clone https://github.com/thelinuxchoice/thechoice
+# https://github.com/thelinuxchoice/thechoice
 
